@@ -1,0 +1,12 @@
+$(document).ready(function(){
+  setTimeout(function(){
+    $('#sun').animate({
+      top:'0px'
+    },1500);
+  },1000);
+  setTimeout(function(){
+    $('body').animate({
+      backgroundColor:'#ffffff'
+    },1500);
+  },1000);
+});

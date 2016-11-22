@@ -1,0 +1,12 @@
+body{
+  background-color:#000;
+   position: fixed!important
+}
+
+
+#sun{
+  width:100px;
+  height:100px;
+  position:absolute;
+  top:500px;
+}
